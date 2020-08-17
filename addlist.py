@@ -18,5 +18,5 @@ def main():
         print(num,end=' ')
     print()
 
-    print("Sum = ",sum," and Average = ",sum/entries)
+    print("Sum of List = ",sum," and Average = ",sum/entries)
 main()
